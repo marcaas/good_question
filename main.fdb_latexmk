@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1681264861 "main.tex" "main.pdf" "main" 1681264863 0
+["pdflatex"] 1681268237 "main.tex" "main.pdf" "main" 1681268239 0
   "/home/marcass/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/home/marcass/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/home/marcass/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -117,8 +117,8 @@
   "CAShomework.cls" 1681260150 10540 9d9f7a934b215f77bf05e26617dcdffa ""
   "body/good_660.tex" 1681200364 0 d41d8cd98f00b204e9800998ecf8427e ""
   "body/good_880.tex" 1681200602 1117 24cb766dc36c9dbe8675a394023c186c ""
-  "body/good_ZY.tex" 1681264861 2020 4f19513f3c1a884617f21f513617e349 ""
-  "main.aux" 1681264863 2315 f03166e335e79ac1f4c946173017b508 "pdflatex"
+  "body/good_ZY.tex" 1681268234 2669 6413ad90d3f213a0098f9cf07392ab02 ""
+  "main.aux" 1681268238 2619 b1fa0a52543a0a2769502d5b6ace0fb9 "pdflatex"
   "main.tex" 1681198046 853 65930db122db4d45fdeea7f703864f5f ""
   (generated)
   "main.aux"
