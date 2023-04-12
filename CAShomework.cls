@@ -262,7 +262,7 @@
 \AtBeginDocument{
     \let\ge\geqslant
     \let\le\leqslant
-    \renewcommand\pi{\symup\umathpi}%
+    % \renewcommand\pi{\symup\umathpi}%
 }
 \DeclareMathOperator{\rank}{rank}
 \DeclareMathOperator{\tr}{tr}

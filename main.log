@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.11)  11 APR 2023 16:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.11)  12 APR 2023 10:01
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -2282,19 +2282,23 @@ m;+lnum;" at 6.32362pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusSerif-Regular.otf
 ) (./body/good_660.tex)
-(./body/good_ZY.tex
-./body/good_ZY.tex:21: Undefined control sequence.
-<argument> \umathpi 
-                    
-l.21 ...frac{ x^2 + nx( 1 - x ) \sin ^2 \pi x }{1}
-                                                   $ 
+(./body/good_ZY.tex [1
+
+])
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sl' will be
+(Font)              scaled to size 10.53937pt on input line 30.
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slan
+t=0.2;+tnum;+lnum;mapping=tex-text;" at 10.53937pt
+ -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
+s/LibertinusSerif-Regular.otf
+ [2] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 24697 strings out of 476675
- 588741 string characters out of 5802475
- 1853296 words of memory out of 5000000
- 44588 multiletter control sequences out of 15000+600000
- 518453 words of font info for 117 fonts, out of 8000000 for 9000
+ 24715 strings out of 476675
+ 589905 string characters out of 5802475
+ 1869296 words of memory out of 5000000
+ 44600 multiletter control sequences out of 15000+600000
+ 518461 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,8n,155p,1193b,2766s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-No pages of output.
+Output written on main.pdf (2 pages).
