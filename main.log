@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.11)  12 APR 2023 16:47
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.11)  18 APR 2023 09:24
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -2164,7 +2164,7 @@ rn/NewCMMath-Book.otf
 Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 12.045pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/fandol/FandolSo
 ng-Regular.otf
- (./body/good_880.tex
+ (./body/good_660.tex
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 15.05624pt on input line 1.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
@@ -2178,7 +2178,7 @@ lnum;mapping=tex-text;" at 15.05624pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusSerif-Bold.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.53937pt on input line 3.
+(Font)              scaled to size 10.53937pt on input line 4.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
 lnum;mapping=tex-text;" at 10.53937pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
@@ -2186,9 +2186,6 @@ s/LibertinusSerif-Bold.otf
 Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 10.53937pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/fandol/FandolSo
 ng-Bold.otf
-Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 10.53937pt
- -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/fandol/FandolSo
-ng-Regular.otf
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;;+sst
 y=0;" at 8.4315pt
 Unknown feature `' in font `[LibertinusMath-Regular.otf]/OT:script=math;languag
@@ -2208,7 +2205,7 @@ Requested font "cmmi8" at 8.4315pt
 Requested font "cmmi6" at 6.32362pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 10.54048pt on input line 3.
+(Font)              scaled to size 10.54048pt on input line 4.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;;" at
  10.54048pt
 Unknown feature `' in font `[LibertinusMath-Regular.otf]/OT:script=math;languag
@@ -2216,7 +2213,7 @@ e=dflt;;'.
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 8.4324pt on input line 3.
+(Font)              scaled to size 8.4324pt on input line 4.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;;+sst
 y=0;" at 8.4324pt
 Unknown feature `' in font `[LibertinusMath-Regular.otf]/OT:script=math;languag
@@ -2224,7 +2221,7 @@ e=dflt;;+ssty=0;'.
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 6.3243pt on input line 3.
+(Font)              scaled to size 6.3243pt on input line 4.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;;+sst
 y=1;" at 6.3243pt
 Unknown feature `' in font `[LibertinusMath-Regular.otf]/OT:script=math;languag
@@ -2232,7 +2229,7 @@ e=dflt;;+ssty=1;'.
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 10.53824pt on input line 3.
+(Font)              scaled to size 10.53824pt on input line 4.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;;" at
  10.53824pt
 Unknown feature `' in font `[LibertinusMath-Regular.otf]/OT:script=math;languag
@@ -2240,7 +2237,7 @@ e=dflt;;'.
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 8.43059pt on input line 3.
+(Font)              scaled to size 8.43059pt on input line 4.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;;+sst
 y=0;" at 8.43059pt
 Unknown feature `' in font `[LibertinusMath-Regular.otf]/OT:script=math;languag
@@ -2248,7 +2245,7 @@ e=dflt;;+ssty=0;'.
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 6.32294pt on input line 3.
+(Font)              scaled to size 6.32294pt on input line 4.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;;+sst
 y=1;" at 6.32294pt
 Unknown feature `' in font `[LibertinusMath-Regular.otf]/OT:script=math;languag
@@ -2264,24 +2261,27 @@ Requested font "[NewCMMath-Book.otf]/OT:script=math;language=dflt;+ssty=1;" at
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/newcomputermode
 rn/NewCMMath-Book.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 13.
+(Font)              scaled to size 10.53937pt on input line 5.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+lnum;" at 10.53937pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
-(Font)              scaled to size 8.4315pt on input line 13.
+(Font)              scaled to size 8.4315pt on input line 5.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+lnum;" at 8.4315pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
-(Font)              scaled to size 6.32362pt on input line 13.
+(Font)              scaled to size 6.32362pt on input line 5.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+lnum;" at 6.32362pt
  -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/libertinus-font
 s/LibertinusSerif-Regular.otf
-) (./body/good_660.tex)
+Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 10.53937pt
+ -> /home/marcass/texlive/2023/texmf-dist/fonts/opentype/public/fandol/FandolSo
+ng-Regular.otf
+) (./body/good_880.tex)
 (./body/good_ZY.tex [1
 
 ])
